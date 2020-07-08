@@ -1,16 +1,12 @@
-# Juliana—@julianatfg
-Blahblahblah. 💕
+# _Jules_
+Blahblahblah.
 
-## My values
-🌟 Expression as authentic self<br>
-👩🏻‍🎤 Safety and trust<br>
-🧜🏻‍♀️ Beginner's mindset and curiosity<br>
-🙌 Shared understanding and consensus
-
-## How I work
-✅ . 😸
+## My interests
+🎈 Languages (proficient in English)<br>
+👩🏻‍🎤 British telly<br>
+🦚 Music <a href="http://last.fm/user/sub-london" target="_blank">recently listened to @ lastfm</a><br>
+👽 Learning how to code
 
 ## Get in touch
-- Twitter: 
-- Personal site: 
-- Cosplay/fashion IG: 
+- Instagram: http://instagram.com/sublondon
+- Personal site: http://julianatfg.github.io
