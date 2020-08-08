@@ -12,7 +12,7 @@
 
 ## Get in touch
 - Instagram: http://instagram.com/sublondon
-- Personal site: http://julianatfg.github.io
-- _Curriculum vitae_: https://julianatfg.github.io/resume
+- Personal site: http://juliana.codes
+- _Curriculum vitae_: https://juliana.codes/resume
 - Goodreads (often neglected): https://www.goodreads.com/user/show/1478137-jules
 
