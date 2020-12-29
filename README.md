@@ -1,18 +1,7 @@
-# _Jules_
-🍧🍒🍀💗
+# 👩🏻‍🎤 Hi
+I’m Jules, by the way. I enjoy reading, walking, languages and learning new techy things. I also like Doctor Who and period dramas.
 
+I used to spend my days at LiveJournal (hey, remember that, kids?) and now I spend my days at Github, trying to get better at coding. Or programming. Whatever. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 
 
-
-## My interests
-🎈 Languages (proficient in English)<br>
-:rainbow: Reading<br>
-👩🏻‍🎤 British telly<br>
-🦚 [Music I recently listened to @ Last.fm](http://last.fm/user/sub-london)<br>
-👽 Learning how to code
-
-## Get in touch
-- Instagram: http://instagram.com/sublondon
-- Personal site: http://juliana.codes
-- _Curriculum vitae_: https://juliana.codes/resume
-- Goodreads (often neglected): https://www.goodreads.com/user/show/1478137-jules
-
+## :rainbow: Get in touch
+Personal-ish site: http://juliana.codes
